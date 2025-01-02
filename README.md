@@ -10,6 +10,6 @@ Levels
 
 Resources
 
-    Kotlin beginer course by https://nouri.academy/
+    Kotlin beginer course by [https://nouri.academy](https://nouri.academy)
     Kotlin documention by https://kotlinlang.org
     Atomic Kotlin book by Bruce Eckel and Svetlana Isakova
