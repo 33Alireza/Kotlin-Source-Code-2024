@@ -32,7 +32,7 @@ Welcome to the Kotlin-Source-Code-2024 repository! This project is designed to i
 
 
 
-<h3 align="left"> 📫 How to reach me:</h3>
+<!--<h3 align="left"> 📫 How to reach me:</h3>
 <p align="left">
 <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/icons/twitter.svg" alt="twitter" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
@@ -40,10 +40,4 @@ Welcome to the Kotlin-Source-Code-2024 repository! This project is designed to i
 <a href="https://telegram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/icons/telegram.svg" alt="telegram" height="30" width="30" /></a>
 <a href="https://vibrantfix.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/icons/logo.jpg" alt="website" height="30" width="30" /></a>
 </p>
-<br>
-
-
------
-Credits: [Yogesh](https://github.com/vibrantfix)
-
-Last Edited on: 13/04/2023
+<br>-->
